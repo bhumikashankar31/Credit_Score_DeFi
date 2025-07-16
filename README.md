@@ -11,7 +11,7 @@ Instead of using Machine Learning, we use a **simple, explainable, rule-based fo
 
 Why?
 
--  We don’t have labels like "good" or "bad" users — so supervised ML isn’t possible.
+-  There's no labels like "good" or "bad" users — so supervised ML isn’t possible.
 -  ML clustering gave poor interpretability and score spread.
 -  This approach is:
   - Easy to debug
